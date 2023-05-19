@@ -4,4 +4,4 @@
 <a href="">Model Unet</a><br>
 <h2>From code/about code</h2>
 <h3>Unet model</h3>
-<img href="UNET.png">
+<img src="UNET.png">
