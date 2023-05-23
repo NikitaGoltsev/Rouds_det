@@ -5,7 +5,6 @@
 <h2>From code/about code</h2>
 <h3>Unet model</h3>
 <img src="./UNET.png">
-<img src="">
 <h2>Results of programm</h2>
 <h3>Prediction for model</h3>
 <img src="predict_img.png">
