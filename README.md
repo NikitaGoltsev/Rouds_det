@@ -16,3 +16,4 @@
 <p>In <a href="https://habr.com/ru/companies/io/articles/259997/">that</a> web page we are able to see another example of corps</p>
 <h2>Unet's decoder</h2>
 <a href = "https://colab.research.google.com/github/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial117_building_unet_using_encoder_decoder_blocks.ipynb">Example</a>
+<p>Some information about, how does it works <a href = "https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers"></a></p>
