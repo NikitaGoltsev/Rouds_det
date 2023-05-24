@@ -10,3 +10,6 @@
 <img src="predict_img.png">
 <p>And the final result of segmentation is</p><br>
 <img src="results.png">
+<h1>Road segmentation project</h1>
+<h2>Crop in my code</h2>
+<p>In my program I use <a href="https://pytorch.org/vision/stable/generated/torchvision.transforms.RandomCrop.html">random crop</a> in augamentation</p>
