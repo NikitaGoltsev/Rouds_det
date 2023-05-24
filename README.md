@@ -14,3 +14,5 @@
 <h2>Crop in my code</h2>
 <p>In my program I use <a href="https://pytorch.org/vision/stable/generated/torchvision.transforms.RandomCrop.html">random crop</a> in augamentation. That's not thr same with simple crop. That version able to help our model get more information from any parrt of image <a href = "https://blog.roboflow.com/why-and-how-to-implement-random-crop-data-augmentation/">Example</a></p>
 <p>In <a href="https://habr.com/ru/companies/io/articles/259997/">that</a> web page we are able to see another example of corps</p>
+<h2>Unet's decoder</h2>
+<a href = "https://colab.research.google.com/github/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial117_building_unet_using_encoder_decoder_blocks.ipynb">Example</a>
