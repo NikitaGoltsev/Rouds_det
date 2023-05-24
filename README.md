@@ -12,4 +12,4 @@
 <img src="results.png">
 <h1>Road segmentation project</h1>
 <h2>Crop in my code</h2>
-<p>In my program I use <a href="https://pytorch.org/vision/stable/generated/torchvision.transforms.RandomCrop.html">random crop</a> in augamentation</p>
+<p>In my program I use <a href="https://pytorch.org/vision/stable/generated/torchvision.transforms.RandomCrop.html">random crop</a> in augamentation. That's not thr same with simple crop. That version able to help our model get more information from any parrt of image <a href = "https://blog.roboflow.com/why-and-how-to-implement-random-crop-data-augmentation/">Example</a></p>
