@@ -17,3 +17,4 @@
 <h2>Unet's decoder</h2>
 <a href = "https://colab.research.google.com/github/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial117_building_unet_using_encoder_decoder_blocks.ipynb">Example</a>
 <p>Some information about, how does it works <a href = "https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers"></a></p>
+<p>Information about attention in Unet decoder block <a href = "https://idiotdeveloper.com/attention-unet-in-pytorch/"></a></p>
